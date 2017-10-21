@@ -1,0 +1,6 @@
+.letter {
+	border-bottom: 5px solid black;
+	float: left;
+	width: 15px;
+	margin-right: 5px;
+}
